@@ -1,6 +1,8 @@
 # commitcounter
 Add this to your project to view your contributors commit counts
 
+[![npm version](https://badge.fury.io/js/commitcounter.svg)](https://badge.fury.io/js/commitcounter)
+
 # Install
 ```bash
 npm install commitcounter
