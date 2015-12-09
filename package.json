@@ -1,0 +1,19 @@
+{
+  "name": "commitcounter",
+  "version": "1.0.0",
+  "description": "Add this to your project to view your contributors commit counts",
+  "main": "commitcounter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robcalcroft/commitcounter.git"
+  },
+  "author": "Rob Calcroft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robcalcroft/commitcounter/issues"
+  },
+  "homepage": "https://github.com/robcalcroft/commitcounter#readme"
+}
