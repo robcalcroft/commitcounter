@@ -1,4 +1,5 @@
- 2015 Rob Calcroft
+ /** 
+ * (c) 2015 Rob Calcroft
  *
  * require("commitcount")(function(err, shortlog) {
  * 		// shortlog is an object with the data in
